@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+  background-image:linear-gradient(lightblue, rgb(221, 78, 226));
+  background-size: cover;
+}
+
+h1 {
+  color: rgb(35, 2, 27);
+}

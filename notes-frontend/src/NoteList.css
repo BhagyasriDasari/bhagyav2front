@@ -1,0 +1,39 @@
+.note-list {
+    margin-top: 20px;
+  }
+  
+  .note-list button {
+    padding: 5px 10px;
+    background-color: #550349;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    border:solid;
+    border-color: white;
+    border-width:1px;
+    cursor: pointer;
+  }
+  
+  .note-list button:hover {
+    background-color: #a81980;
+    border:solid;
+    border-color: white;
+    border-width:1px;
+  }
+  
+  .note-list ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .note-list li {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    background-color: #f8f9fa;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
